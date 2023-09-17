@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "timestamp": "10:00:00",
+            "heart_rate": 85,
+            "physical_activity": {
+                "steps": 5500,
+                "distance": 4.2,
+                "active_minutes": 2,
+                "calories_burned": 30
+            }
+        },
+        {
+            "timestamp": "10:03:00",
+            "heart_rate": 110,
+            "physical_activity": {
+                "steps": 5510,
+                "distance": 4.3,
+                "active_minutes": 3,
+                "calories_burned": 40
+            }
+        },
+        {
+            "timestamp": "10:06:00",
+            "heart_rate": 95,
+            "physical_activity": {
+                "steps": 5555,
+                "distance": 4.35,
+                "active_minutes": 4,
+                "calories_burned": 45
+            }
+        },
+        {
+            "timestamp": "10:09:00",
+            "heart_rate": 140,
+            "physical_activity": {
+                "steps": 5605,
+                "distance": 4.45,
+                "active_minutes": 25,
+                "calories_burned": 100
+            }
+        },
+        {
+            "timestamp": "10:12:00",
+            "heart_rate": 120,
+            "physical_activity": {
+                "steps": 5650,
+                "distance": 4.55,
+                "active_minutes": 7,
+                "calories_burned": 60
+            }
+        },
+        {
+            "timestamp": "10:15:00",
+            "heart_rate": 80,
+            "physical_activity": {
+                "steps": 5670,
+                "distance": 4.6,
+                "active_minutes": 2,
+                "calories_burned": 30
+            }
+        },
+        {
+            "timestamp": "10:18:00",
+            "heart_rate": 100,
+            "physical_activity": {
+                "steps": 5690,
+                "distance": 4.65,
+                "active_minutes": 6,
+                "calories_burned": 50
+            }
+        },
+        {
+            "timestamp": "10:21:00",
+            "heart_rate": 130,
+            "physical_activity": {
+                "steps": 5720,
+                "distance": 4.7,
+                "active_minutes": 15,
+                "calories_burned": 80
+            }
+        },
+        {
+            "timestamp": "10:24:00",
+            "heart_rate": 85,
+            "physical_activity": {
+                "steps": 5735,
+                "distance": 4.75,
+                "active_minutes": 3,
+                "calories_burned": 40
+            }
+        },
+        {
+            "timestamp": "10:27:00",
+            "heart_rate": 140,
+            "physical_activity": {
+                "steps": 5760,
+                "distance": 4.8,
+                "active_minutes": 18,
+                "calories_burned": 90
+            }
+        },
+        {
+            "timestamp": "10:30:00",
+            "heart_rate": 90,
+            "physical_activity": {
+                "steps": 5785,
+                "distance": 4.85,
+                "active_minutes": 4,
+                "calories_burned": 45
+            }
+        }
+    ]
+}
